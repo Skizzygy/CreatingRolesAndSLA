@@ -45,7 +45,7 @@ To allow anyone to create a ticket, navigate to the Settings Tab in the Admin pa
 <img src=https://github.com/user-attachments/assets/210f8327-72a1-48a0-86b3-52db5e3c4b76 />
 <br/>
 <br/>
-To add Agents that will handle the various tickets, from the Admin panel, click on the Agents tab, then Agents, and 'Add New Agent'. Fill in the information as required, making sure to place the Agent in the required Department that they will be working in and with. <br/>
+To add Agents that will handle the various tickets, from the Admin panel, click on the Agents tab, then Agents, and 'Add New Agent'. Fill in the information as required, making sure to place the Agent in the Department that they will be working in and with. <br/>
 <img src=https://github.com/user-attachments/assets/30019c9f-ad57-4f4a-be97-c6390b9f03d0 />
 <img src=https://github.com/user-attachments/assets/04d9d7ce-286d-4ae4-9656-6e7e10ef98ad />
 <img src=https://github.com/user-attachments/assets/4cc414f5-36b3-4891-9ec9-49890ecd85d9 />
